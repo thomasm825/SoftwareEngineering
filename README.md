@@ -1,2 +1,2 @@
-# SoftwareEnginering
+# SoftwareEngineering
 Software Engineering
