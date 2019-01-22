@@ -7,7 +7,7 @@ public class Hello {
 		
 		Scanner x = new Scanner(System.in);
 		String name = x.nextLine();
-		System.out.println("The person running this program is:" + name);
+		System.out.println("The person running this program is:" + name); //just saying i can edit this
 	}
 	
 }
