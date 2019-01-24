@@ -9,7 +9,9 @@ public class Hello {
 		
 		Scanner x = new Scanner(System.in);
 		String name = x.nextLine();
+		String name2 = x.nextLine();
 		System.out.println("The person running this program is:" + name);
+		System.out.println("The 2nd person running this program is: " + name2);
 	}
 	
 }
